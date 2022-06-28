@@ -115,4 +115,3 @@ while True:
     if key == ord('r'):
         game.gameOver = False
 
-# This is a test
