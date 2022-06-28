@@ -93,3 +93,5 @@ while True:
         gameOver = False
         score = [0, 0]
         imgGameOver = cv2.imread("Resources/gameOver.png")
+
+    # This is a test
